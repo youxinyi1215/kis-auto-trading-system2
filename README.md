@@ -108,3 +108,15 @@ The real API adapter should implement the same methods as `PaperBroker`:
 
 This keeps the strategy independent from the broker implementation.
 
+## Limitations
+
+- Currently supports only mock trading
+- Real-time websocket trading is not implemented yet
+- Trading strategy logic is still simple
+- Risk management features need improvement
+
+## Future Improvements
+
+- Add RSI and MACD strategies
+- Improve automatic trading logic
+- Add real-time monitoring dashboard
