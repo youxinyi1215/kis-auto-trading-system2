@@ -113,7 +113,3 @@ This keeps the strategy independent from the broker implementation.
 ```bash
 pytest
 ```
-
-## Disclaimer
-
-This project is for education and portfolio submission only. Automated trading can cause financial loss. Use paper trading first and never commit real API keys to GitHub.
