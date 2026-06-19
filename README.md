@@ -108,8 +108,3 @@ The real API adapter should implement the same methods as `PaperBroker`:
 
 This keeps the strategy independent from the broker implementation.
 
-## Tests
-
-```bash
-pytest
-```
