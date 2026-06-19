@@ -1,6 +1,6 @@
 # KIS Open API Auto Trading System
 
-This repository is a course-style implementation of an automated trading system using the Korea Investment & Securities Open API concept.
+This repository is implementation of an automated trading system using the Korea Investment & Securities Open API concept.
 
 The project is intentionally safe by default:
 
