@@ -1,0 +1,17 @@
+[project]
+name = "kis-auto-trading-system"
+version = "0.1.0"
+description = "Educational automated trading system using a KIS Open API compatible broker interface."
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv==1.0.1",
+    "requests==2.32.3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==8.3.4",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
